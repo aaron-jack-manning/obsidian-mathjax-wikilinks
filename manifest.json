@@ -1,7 +1,7 @@
 {
 	"id": "obsidian-mathjax-wikilinks",
 	"name": "MathJax WikiLinks",
-	"version": "0.1.0",
+	"version": "0.0.1",
 	"minAppVersion": "0.15.0",
 	"description": "Allows rendering MathJax in WikiLink aliases.",
 	"author": "Aaron Manning",
