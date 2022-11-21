@@ -1,7 +1,7 @@
 import { Plugin, loadMathJax, finishRenderMath, renderMath } from 'obsidian';
 
 
-export default class MyPlugin extends Plugin {
+export default class MathJaxWikiLinks extends Plugin {
 
 	async onload() {
 
